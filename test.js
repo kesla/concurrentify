@@ -1,0 +1,1 @@
+require('run-alternative/abstract-test')(require('./parallelify'), 'parallelify')

@@ -1,0 +1,26 @@
+{
+  "name": "concurrentify",
+  "version": "1.0.0",
+  "description": "An alternative api to run-concurrent",
+  "main": "concurrentify.js",
+  "dependencies": {
+    "run-concurrent": "^1.0.0",
+    "run-alternative": "^1.3.0"
+  },
+  "devDependencies": {
+    "tape": "^2.12.3"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kesla/concurrentify.git"
+  },
+  "author": "David Björklund <david.bjorklund@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kesla/concurrentify/issues"
+  },
+  "homepage": "https://github.com/kesla/concurrentify"
+}

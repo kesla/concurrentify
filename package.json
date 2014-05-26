@@ -1,6 +1,6 @@
 {
   "name": "concurrentify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An alternative api to run-concurrent",
   "main": "concurrentify.js",
   "dependencies": {

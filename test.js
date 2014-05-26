@@ -1,1 +1,1 @@
-require('run-alternative/abstract-test')(require('./parallelify'), 'parallelify')
+require('run-alternative/abstract-test')(require('./concurrentify'), 'concurrentify')
